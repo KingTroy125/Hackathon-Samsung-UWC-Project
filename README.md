@@ -2,9 +2,9 @@
 
 ![Screenshot 2025-02-25 211101](https://github.com/user-attachments/assets/017a8546-0cfe-493d-add0-d3313288f10f)
 
-![733shots_so](https://github.com/user-attachments/assets/c188727e-cf07-46fb-b402-1d3e866c0213)
+# SafeBite ZA – Combatting Foodborne Illnesses in South Africa 
 
-# SafeBite ZA – Combatting Foodborne Illnesses in South Africa  
+![733shots_so](https://github.com/user-attachments/assets/c188727e-cf07-46fb-b402-1d3e866c0213)
 
 ## 🚀 Project Overview  
 **SafeBite ZA** is a hyper-localized AI platform designed to reduce foodborne illnesses in South Africa, particularly in Cape Town's informal communities. By leveraging AI-powered food contamination detection, real-time community reporting, and multilingual food safety education, SafeBite ZA empowers individuals to make safer food choices.  
